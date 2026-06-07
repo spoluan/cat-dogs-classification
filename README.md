@@ -53,6 +53,7 @@ The custom CNN model consists of the following layers:
 ### Training History
 
 ![Training History Plot](figures/figure_2.png)
+
 *Training and validation accuracy/loss over epochs*
 
 The model shows consistent improvement during training with the early stopping mechanism preventing overfitting.
