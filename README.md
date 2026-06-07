@@ -70,6 +70,7 @@ The model achieves approximately 99.70% accuracy on the test set, demonstrating 
 ### Confusion Matrix
 
 ![Confusion Matrix](figures/figure_3.png)
+
 *Confusion matrix showing classification results*
 
 ## Results and Analysis
