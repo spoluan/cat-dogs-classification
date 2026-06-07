@@ -18,6 +18,7 @@ The project uses the **TensorFlow Cats vs Dogs dataset** with the following char
 ### Sample Image from Dataset
 
 ![Sample Cat Image](figures/figure_1.png)
+
 *Sample image from the dataset showing preprocessing applied*
 
 ## Model Architecture
